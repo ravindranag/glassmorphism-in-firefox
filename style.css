@@ -10,6 +10,7 @@ body {
     width: 100%;
     height: 100vh;
     background: url('bg.jpg') 0 0/1600px 900px no-repeat fixed;
+    background-position: center;
 }
 
 .card {
@@ -32,6 +33,7 @@ body {
     right: -10px;
     bottom: -10px;
     background: url('bg.jpg') 0 0/1600px 900px no-repeat fixed;
+    background-position: center;
     border: 1px solid #ffffff40;
     filter: blur(5px);
     overflow: hidden;
